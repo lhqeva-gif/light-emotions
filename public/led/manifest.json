@@ -1,0 +1,13 @@
+{
+  "mapping": "dian.json",
+  "note": "补放灯光文件：将 .bin 放入 public/led/，在 clips 中登记 file / name / scene / fps。scene 为库内意境 id（可选），fps 可省略（从 name 末尾 _25 / _30 识别）。",
+  "clips": [
+    { "file": "01.bin", "name": "01旭日东升_30.bin", "scene": "sunrise", "fps": 30 },
+    { "file": "02.bin", "name": "02云淡风轻_25.bin", "scene": "breeze", "fps": 25 },
+    { "file": "03.bin", "name": "03晴空万里_30.bin", "scene": "clearsky", "fps": 30 },
+    { "file": "04.bin", "name": "04雷霆万钧_30.bin", "scene": "thunder", "fps": 30 },
+    { "file": "05.bin", "name": "05雨后彩虹_25.bin", "scene": "afterrain", "fps": 25 },
+    { "file": "08.bin", "name": "08北欧极光_25.bin", "scene": "aurora", "fps": 25 },
+    { "file": "09.bin", "name": "09星光璀璨_25.bin", "scene": "starlight", "fps": 25 }
+  ]
+}

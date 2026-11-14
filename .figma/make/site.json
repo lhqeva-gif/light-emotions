@@ -1,0 +1,10 @@
+{
+  "description": "Enhances soft light color sections with emotional semantics and applicable mood scenarios, providing users with insightful visual mood representations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
